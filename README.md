@@ -5,7 +5,7 @@ Prepare for the Oracle Talent Management Cloud 2026 Implementation Professional 
 
 This repository organizes key study areas, visual learning diagrams, a preparation roadmap, and useful official learning resources to support a focused exam preparation journey.
 
-Explore exam preparation resources:** [CertsGate — Oracle 1Z0-1052-26](https://certsgate.com/exams/oracle/1z0-1052-26)
+Explore exam preparation resources:[CertsGate — Oracle 1Z0-1052-26](https://certsgate.com/exams/oracle/1z0-1052-26)
 
 > Important: Always consult Oracle's official exam information and learning resources for the latest requirements. Exam specifications and product features can change.
 
@@ -13,7 +13,7 @@ Explore exam preparation resources:** [CertsGate — Oracle 1Z0-1052-26](https:/
 
  Table of Contents
 
-- [Exam Overview](#exam-overview)
+- [Exam Overview](exam-overview)
 - [Who Should Use This Guide?](who-should-use-this-guide)
 - [Core Knowledge Areas](core-knowledge-areas)
 - [Talent Management Mind Map]talent-management-mind-map)
